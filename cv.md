@@ -35,4 +35,15 @@ def game_engine(calculate, QUESTION):
             return
     print(f"Congratulations, {user_name}!") 
  ```
+* JavaScript-code:
+```
+function sum(a, b) {
+  return a + b;
+}
+```
+## Education
+* BSTU (Belarusian state technological university) - Сhemical engineer
+* English course SkyEng
 
+## English level
+* A2 - Pre-Intermediate
